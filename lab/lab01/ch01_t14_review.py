@@ -3,4 +3,4 @@ exercises_completed = 13
 
 points_per_exercise = 5
 
-point_total += exer
+point_total += exercises_completed *poi
