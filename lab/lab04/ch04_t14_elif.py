@@ -1,4 +1,4 @@
-def greater_less_equal_5(answer: int) -> int:
+def greater_less_equal_5(awswer: int) -> int:
     if None:
         return 1
     elif None:
