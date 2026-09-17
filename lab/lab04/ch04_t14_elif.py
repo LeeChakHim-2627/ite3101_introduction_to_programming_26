@@ -1,7 +1,7 @@
 def greater_less_equal_5(awswer: int) -> int:
     if awswer > 5:
         return 1
-    elif None:
+    elif awswer < 5:
         return -1
     else:
         return 0
