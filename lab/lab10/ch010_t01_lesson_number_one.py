@@ -6,7 +6,7 @@ lloyd ={
 }
 
 alice ={
-    "name":"Lloyd",
+    "name":"Alice",
     "homeword":[],
     "quizzea":[],
     "tests":[]
