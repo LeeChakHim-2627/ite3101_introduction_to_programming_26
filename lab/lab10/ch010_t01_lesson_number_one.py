@@ -4,7 +4,7 @@ lloyd ={
     "quizzea":[],
     "tests":[]
 }
-lloyd ={
+alice ={
     "name":"Lloyd",
     "homeword":[],
     "quizzea":[],
