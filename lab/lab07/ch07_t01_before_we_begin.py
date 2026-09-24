@@ -1,1 +1,2 @@
-def anawer()->int
+def anawer()->int:
+    return 42
