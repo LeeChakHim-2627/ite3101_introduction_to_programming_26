@@ -1,2 +1,2 @@
 def stut_down(s:str)->str:
-    id s =="yes"
+    id s =="yes":
