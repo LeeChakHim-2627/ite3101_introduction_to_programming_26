@@ -4,8 +4,8 @@ print(menu['Chicken Alfredo'])
 
 # Your code here: Add some dish-price pairs to menu!
 meuu["Icecream"] = 3
-meuu["Icecream"] = 3
-meuu["Icecream"] = 3
+meuu["Spam"] = 2.5
+meuu["Meat Ball"] = 6
 
 print("There are " + str(len(menu)) + " items on the menu.")
 print(menu)
