@@ -9,3 +9,4 @@ def fizz_count(x:List[str])->int:
         if word == "fizz":
             count += 1
         return count
+    
