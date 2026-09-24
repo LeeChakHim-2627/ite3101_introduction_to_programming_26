@@ -1,3 +1,3 @@
 def stut_down(s:str)->str:
     id s =="yes":
-    return "Shu"
+    return "Shutting down"
