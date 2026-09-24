@@ -18,4 +18,4 @@ def rental_car_cost(days:int)->int:
         cost -= 50
     if days >= 3:
         cost -= 20
-return hotel_cost
+return cost
