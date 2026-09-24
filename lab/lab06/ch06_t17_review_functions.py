@@ -4,6 +4,6 @@ def stut_down(s:str)->str:
     else s =="no":
         return "Shutdown aborted"
     else:
-        
+        return "s"
    
     
