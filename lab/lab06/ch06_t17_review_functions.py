@@ -1,1 +1,1 @@
-def stut_down
+def stut_down(s:str)->
