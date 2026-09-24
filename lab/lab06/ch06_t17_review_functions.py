@@ -3,7 +3,7 @@ def stut_down(s:str)->str:
         return "Shutting down"
     else s == "no":
         return "Shutdown aborted"
-    else:
-        return "Sorry"
+
+
    
     
