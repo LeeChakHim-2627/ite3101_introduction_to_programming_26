@@ -1,2 +1,2 @@
 def hotel_cost(nights: int)-> int:
-    ret
+    return 140 * nights
