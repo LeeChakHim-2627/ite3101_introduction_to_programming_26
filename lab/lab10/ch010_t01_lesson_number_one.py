@@ -13,7 +13,7 @@ alice ={
 }
 
 tyler={
-    "name":"Lloyd",
+    "name":"Tyler",
     "homeword":[],
     "quizzea":[],
     "tests":[]
