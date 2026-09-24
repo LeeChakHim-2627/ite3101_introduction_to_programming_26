@@ -15,4 +15,4 @@ prices = {
 }
 
 # Write your code below!
-def compute_bill(food: List[str])_>
+def compute_bill(food: List[str])_>: 1.5
