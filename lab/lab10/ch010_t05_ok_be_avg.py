@@ -1,4 +1,4 @@
-from
+from typing import List
 
 lloyd = {
     "name": "Lloyd",
