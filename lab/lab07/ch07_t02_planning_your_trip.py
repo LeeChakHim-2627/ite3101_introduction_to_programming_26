@@ -1,3 +1,2 @@
-def hotel_cost(nights: int)-> int
-
-
+def hotel_cost(nights: int)-> int:
+    ret
