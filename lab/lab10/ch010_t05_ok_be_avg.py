@@ -20,4 +20,4 @@ tyler = {
 # Add your function below!
 def average(number: List[float]) -> float:
     total = sum(number)
-    return total / 
+    return total / len(number)
