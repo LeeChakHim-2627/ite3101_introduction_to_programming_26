@@ -1,1 +1,2 @@
-def stut_down(s:str)->
+def stut_down(s:str)->str:
+    id s ==
