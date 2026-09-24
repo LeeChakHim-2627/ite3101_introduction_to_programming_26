@@ -1,1 +1,1 @@
-def hotel_
+def hotel_cost(n)
