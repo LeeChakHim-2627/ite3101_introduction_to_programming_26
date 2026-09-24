@@ -18,5 +18,5 @@ tyler = {
 }
 students = [lloyd, alice, tyler]
 
-for student in students
+for student in students:
 
