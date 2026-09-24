@@ -8,13 +8,13 @@ lloyd ={
 alice ={
     "name": "Alice",
     "homeword": [],
-    "quizzea": [],
+    "quizzes": [],
     "tests": []
 }
 
 tyler ={
     "name": "Tyler",
     "homeword": [],
-    "quizzea": [],
+    "quizzes": [],
     "tests": []
 }
