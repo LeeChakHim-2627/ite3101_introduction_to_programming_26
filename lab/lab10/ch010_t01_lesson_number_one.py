@@ -1,4 +1,5 @@
 lloyd ={
     "name":"Lloyd",
-    "homeword"
+    "homeword":[],
+    "quizzea":
 }
