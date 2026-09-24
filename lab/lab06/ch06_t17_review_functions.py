@@ -4,7 +4,7 @@ def stut_down(s:str)->str:
     elif s == "no":
         return "Shutdown aborted"
     else:
-        return Sorry"
+        return "Sorry"
     
 
    
