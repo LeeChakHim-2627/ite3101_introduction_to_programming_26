@@ -1,1 +1,1 @@
-def disf
+def distance_from_zero
