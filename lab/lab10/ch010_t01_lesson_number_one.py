@@ -1,18 +1,18 @@
-lloyd ={
+lloyd = {
     "name": "Lloyd",
     "homeword": [],
-    "quizzea": [],
+    "quizzes": [],
     "tests": []
 }
 
-alice ={
+alice = {
     "name": "Alice",
     "homeword": [],
     "quizzes": [],
     "tests": []
 }
 
-tyler ={
+tyler = {
     "name": "Tyler",
     "homeword": [],
     "quizzes": [],
