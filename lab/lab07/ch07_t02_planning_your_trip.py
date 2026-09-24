@@ -1,1 +1,1 @@
-def hotel
+def hotel_
