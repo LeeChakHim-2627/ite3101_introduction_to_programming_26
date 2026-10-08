@@ -1,7 +1,7 @@
 from typing import List
 
 
-def list_function(x: List[int]) ->string_function:
+def list_function(x: List[int]) ->:
 
     return x[1]
 
