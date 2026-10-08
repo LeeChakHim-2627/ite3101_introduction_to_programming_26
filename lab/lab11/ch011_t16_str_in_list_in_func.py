@@ -1,4 +1,4 @@
-from ast import List
+from typinf import List
 
 
 n = ["Michael", "Lieberman"]
