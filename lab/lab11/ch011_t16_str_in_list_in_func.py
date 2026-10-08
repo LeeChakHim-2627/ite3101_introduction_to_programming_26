@@ -1,4 +1,4 @@
-from typinf import List
+from typing import List
 
 
 n = ["Michael", "Lieberman"]
