@@ -33,7 +33,7 @@ guess_col = int(input("Guess Col: "))
 if guess_row == ship_row and guess_col == ship_col:
     print("Congratulations! You sank my battleship!")
 else:
-    if guess_row not in r
+    if guess_row not in rang
     print("You missed my battleship!")
     board[guess_row][guess_col] = "X"
     print_board(board)
