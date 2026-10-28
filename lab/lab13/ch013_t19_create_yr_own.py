@@ -1,4 +1,4 @@
 for i in range(3):
     print(i)
 else:
-    pint("End")
+    print("End")
