@@ -1,7 +1,7 @@
 phrase = "A bird in the hand..."
 
 # Add your for loop
-for char i phrase:
+for char in phrase:
     if char == "A" or char == "a":
         print("X", end="")
     else:
