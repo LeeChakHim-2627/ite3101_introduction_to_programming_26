@@ -1,2 +1,2 @@
 
-def produ
+def product(seq: List[int])->int
