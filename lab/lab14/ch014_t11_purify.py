@@ -1,4 +1,4 @@
 from typing import List
 
 
-def puify(seq: List[int])
+def puify(seq: List[int])->List[int]
