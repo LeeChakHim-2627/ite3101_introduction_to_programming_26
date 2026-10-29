@@ -1,7 +1,7 @@
 from typing import List
 
 
-def puify(seq: List[int])->List[int]:
+def purify(seq: List[int])->List[int]:
     result =[]
     for item in seq:
         if item % 2 == 0:
