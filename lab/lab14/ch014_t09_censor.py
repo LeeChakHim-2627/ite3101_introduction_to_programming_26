@@ -6,4 +6,4 @@ def censor(text:str,word:str)->str:
 
         else:
             result.append(s)
-    return "".join(result)
+    return " ".join(result)
