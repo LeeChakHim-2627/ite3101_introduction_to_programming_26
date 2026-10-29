@@ -1,1 +1,4 @@
-def remove_duplicates(seq)
+from typing import List
+
+
+def remove_duplicates(seq: List[])
